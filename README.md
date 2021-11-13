@@ -1,16 +1,13 @@
-### Hi there 👋
+![animated](https://user-images.githubusercontent.com/84084583/141597197-473f604d-0c15-4f11-b54a-a2ba38701904.GIF)
+### Hi there.... 👋 Welcome to my Github Page 😃
 
-<!--
-**miraj00/miraj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Thanks for taking time to get to know me and my work !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check my portfolio at : https://miraj00.github.io/  for all my project works.
+
+Feel free to reach me for any question or even a small talk. It doesn't have to be only for job offerings !!
+
+Thank you !!
+
+Live Life Lovingly  😊
