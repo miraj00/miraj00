@@ -6,7 +6,7 @@ Thanks for taking time to get to know me and my work !!
 
 You can check my portfolio at : https://miraj00.github.io/  for all my project works.
 
-Feel free to reach me for any question or even a small talk. It doesn't have to be only for job offerings !!
+Feel free to reach me for any question or even a small talk. It doesn't have to be only for job offer !!
 
 Thank you !!
 
